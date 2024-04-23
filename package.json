@@ -1,0 +1,23 @@
+{
+  "name": "ffifi-currency_converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ffificurrency_converter",
+  "type": "module",
+  "bin": "ffificurrency_converter",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "color": "^4.2.3",
+    "inquirer": "^9.2.19"
+  }
+}
